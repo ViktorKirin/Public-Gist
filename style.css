@@ -18,12 +18,12 @@ body {
 .dollars{
     margin: 10px 10px 10px 0px;
 }
+.convert-button {
+    padding: 5px;
+}
 .imputplace {
     border: 0px;
     border-radius: 25px;
-}
-.convert-button {
-    border:none;
 }
 .summ{
     height: 20px;
