@@ -11,7 +11,13 @@ body {
     margin-top: 25%;
     margin-left: 20%;
 }
+.price-BTC{
+    margin: 10px 10px 10px 0px;
 
+}
+.dollars{
+    margin: 10px 10px 10px 0px;
+}
 .imputplace {
     border: 0px;
     border-radius: 25px;
